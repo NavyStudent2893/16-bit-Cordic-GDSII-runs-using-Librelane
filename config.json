@@ -1,0 +1,11 @@
+{
+    "PDK": "ihp-sg13g2",
+    "PDK_ROOT": "/home/maaz/IHP-Open-PDK",
+    "DESIGN_NAME": "cordic",
+    "VERILOG_FILES": [
+        "cordic.v",
+        "angle_lut.v"
+    ],
+  "CLOCK_PERIOD": 25,
+  "CLOCK_PORT": "clk"
+}
