@@ -5,7 +5,7 @@ This repository contains the **physical implementation (GDSII)** of a 16-bit COR
 
 > **Note:** This repository contains the build artifacts and configuration.
 > The Verilog source code (RTL) for this design can be found here:
-> **[https://github.com/NavyStudent2893/16-bit-CORDIC-Circuit]** *(<-- Paste your other repo URL here)*
+> **[https://github.com/NavyStudent2893/16-bit-CORDIC-Circuit]** 
 
 ## 📂 Repository Contents
 
