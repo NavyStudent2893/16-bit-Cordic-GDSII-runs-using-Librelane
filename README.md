@@ -1,4 +1,4 @@
-# 16-bit-Cordic-GDSII-runs-using-Librelane
+
 # 16-bit CORDIC GDSII Layout (IHP SG13G2)
 
 This repository contains the **physical implementation (GDSII)** of a 16-bit CORDIC math accelerator. This layout was generated using the **Librelane** open-source flow targeting the **IHP SG13G2 (130nm)** Process Design Kit (PDK).
